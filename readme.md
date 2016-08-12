@@ -1,5 +1,8 @@
 <h1>PHP... The Goldie Locks Planet!</h1>
-<p>As we learned from Mike Dang, PHP can be inbeded in the html as seen below:</p>
+<h5>As we learned from Mike Dang, PHP can be inbeded in the html as seen below:</h5>
+
+<p>FROM WIKIPEDIA:</p>
+<p>PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language. Originally created by Rasmus Lerdorf in 1994, the PHP reference implementation is now produced by The PHP Group. PHP originally stood for Personal Home Page, but it now stands for the recursive acronym PHP: Hypertext Preprocessor.</p>
 
 <p>Meet PHP</p>
 <img src="./images/first.png" alt="">
