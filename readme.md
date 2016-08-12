@@ -9,11 +9,11 @@
 
 <h4>IMPORTANT: When running PHP in our html files, we'll rename "index.html" to "index.php" so that php interpreter can evaluate PHP code.</h4>
 
-<h3> Lets Jump In</h3>
+<h2> Lets Jump In</h2>
 <h4>Strings and Such:</h4>
-<p>As you may have noticed from the example above, the "echo" function outputs strings and needs a semicolon in order for the string to render. You can also concat using " . " between data. ex: </p>
+<p>As you may have noticed from the example above, the "echo" function outputs strings and needs a semicolon in order for the string to render. You can also concatenate using " . " between data. ex: </p>
 <img src="./images/two.png" alt="">
-<p> We can just as easily use the "echo" function to render math equastions. </p>
+<p> We can just as easily use the "echo" function to render math equations. </p>
 <img src="./images/three.png" alt="">
 
 <h5>Getting Into Variables:</h5>
@@ -21,6 +21,10 @@
 <code>$myName = "Richard Dreyfuss";</code>
 <br>
 <code>$myAge = 68;</code>
+<p> Now let's use this varaible knowledge to set conditional statements. It looks SUPER similar to JavaScript</p>
+<img src="./images/four.png" alt="">
+<p>Control flows like switch case can be slightly different syntax from Javascript. Instead of bracket notation in this switchcase, we use and semicolon and "endswitch"</p>
+<img src="./images/five.png" alt="">
 
 
 
