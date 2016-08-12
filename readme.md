@@ -19,6 +19,7 @@
 <h5>Getting Into Variables:</h5>
 <p> Variables are indicated by the "$" sign</p>
 <code>$myName = "Richard Dreyfuss";</code>
+<br>
 <code>$myAge = 68;</code>
 
 
