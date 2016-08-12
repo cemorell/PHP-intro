@@ -2,10 +2,6 @@
 <p>As we learned from Mike Dang, PHP can be inbeded in the html as seen below:</p>
 
 <code>
-<!DOCTYPE html>
-<html>
-    <head>
-    </head>
     <body>
         <p>
           <?php
@@ -13,5 +9,4 @@
           ?>
         </p>
     </body>
-</html>
 </code>
