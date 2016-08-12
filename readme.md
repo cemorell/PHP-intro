@@ -1,4 +1,4 @@
-<h1>Here to meet Richard Dreyfuss</h1>
+<h1>PHP... The Goldie Locks Planet!</h1>
 <p>As we learned from Mike Dang, PHP can be inbeded in the html as seen below:</p>
 
 <p>Meet PHP</p>
